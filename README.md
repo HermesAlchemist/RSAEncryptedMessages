@@ -1,4 +1,3 @@
-```markdown
 # **GH Msg / Um Teste de RSA**
 
 **GH Msg** é uma aplicação web desenvolvida em Next.js que permite aos usuários gerar chaves RSA, criptografar e descriptografar mensagens. O projeto foi criado com o intuito de explorar e demonstrar o funcionamento do algoritmo RSA de criptografia assimétrica.
